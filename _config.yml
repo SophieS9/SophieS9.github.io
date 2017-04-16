@@ -1,2 +1,4 @@
 name: Sophie Shaw
 markdown: kramdown
+
+theme: jekyll-theme-cayman
