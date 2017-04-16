@@ -3,6 +3,6 @@ layout: default
 title: Sophie Shaw, Bioinformatician
 ---
 
-# CV
+# [CV](./CV/index.md)
 # Projects
 # Workshops
