@@ -1,6 +1,6 @@
 ---
 layouts: default
 ---
-## -[Home](../index.md) - [Projects](../projects/index.md) - [Workshops](./index.md) - [About Me](../CV/index.md) -
+## -[Home](../index.md) - [Research](../projects/index.md) - [Training](./index.md) - [About Me](../CV/index.md) -
 
 This page is under construction
