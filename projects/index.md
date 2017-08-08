@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## -[Home](../index.md) - [Projects](./index.md) - [Workshops](../workshops/index.md) - [About Me](../CV/index.md) -
+## -[Home](../index.md) - [Research](./index.md) - [Training](../workshops/index.md) - [About Me](../CV/index.md) -
 
 # Current Projects
 Coming Soon!
