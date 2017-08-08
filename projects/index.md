@@ -1,11 +1,13 @@
 ---
 layout: default
 ---
-THIS PAGE IS UNDER CONSTRUCTION! So please bear with me!
+## -[Home](./index.md) - [Projects](./projects/index.md) - [Workshops](./workshops/index.md) - [About Me](./CV/index.md) -
 
 # Current Projects
+Coming Soon!
 
 # Top Highlights
+Coming Soon!
 
 # Publications
 You can check out my [Google Scholar page here](https://scholar.google.co.uk/citations?user=_K3aFRYAAAAJ&hl=en)
