@@ -9,6 +9,5 @@ Based at the [Centre for Genome Enabled Biology and Medicine](http://www.abdn.ac
 
 <center><img src="./Sophie_Shaw_Photo.jpg" width="200"/></center>
 
-% twitter https://twitter.com/Sophie_s9 maxwidth=500 limit=5 %
 
 
